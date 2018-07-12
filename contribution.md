@@ -3,7 +3,7 @@
 ## 克隆仓库
 
 ```bash
-$ git clone git@github.com:HYFE/Guide.git
+$ git clone git@github.com:xCss/FE.git
 ```
 
 ## 创建文档
@@ -50,4 +50,4 @@ $ anywhere
 
 ## 在线编辑
 
-如果嫌以上步骤太麻烦，你也可以在[仓库](https://github.com/HYFE/Guide)内在线添加和编辑文档。
+如果嫌以上步骤太麻烦，你也可以在[仓库](https://github.com/xCss/FE)内在线添加和编辑文档。
